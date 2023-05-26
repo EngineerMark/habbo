@@ -6,4 +6,6 @@ I will write a better readme once it becomes a bit functional.
 
 Goal is to make it fully in NodeJS, using a single front-end and backend. All retro software out there is either still flash-based, or breaks at every step of installation.
 
+The game client itself will be made in Unity and built to WebGL.
+
 No promises though.
